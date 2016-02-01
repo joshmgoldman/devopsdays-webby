@@ -6,3 +6,4 @@
 - Kevin Reedy
 - Sasha Rosenbaum
 - Matt Stratton
+- Joshua Goldman
